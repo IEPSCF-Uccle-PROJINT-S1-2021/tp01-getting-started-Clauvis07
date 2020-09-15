@@ -9,23 +9,20 @@
 
 ## Nom
 
-Skywalker
+Youmbi
 
 ## Prénom
 
-Luke
+Clauvis
 
 ## Courte présentation
 
 Bonjour,
 
-Je m'appelle Luke.
-J'aime bien piloter des vaisseaux spatiaux en mode manuel.
-Et je aussi parler aux robots.
-Grand voyageur, j'ai visité plusieurs planètes.
-Malheureusement, mes voyages ne se terminent pas toujours bien.
+Je m'appelle Clauvis.
 
-Je suis tantôt impulsif, tantôt grognon.
-Et j'ai une famille un peu compliquée.
+Je suis étudiant en 3eme année informatique de gestion
+
+j'adore  programmer 
 
 J'ai hâte d'apprendre à programmer en JavaScript.
